@@ -1,0 +1,174 @@
+*{
+    color: aliceblue;
+    margin: 0;  
+}
+body{
+    margin: 0;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+
+/* TITLE(INCLUDE: NAV AND LOGO) */
+.logo-ava, div.logo-ava{
+    height: 75px;
+    width: 75px;
+    padding-left: 3rem;
+    border-radius: 3rem;
+    
+}
+ul.menu li, a{
+    display: inline;
+    float: right;
+    text-decoration: none;
+    margin-right: 1rem;
+}
+
+div.menu{
+    display: block;
+    position: relative;
+    bottom: 3rem;
+}
+
+.heading{
+    display: block;
+    background-color: #525545;
+}
+
+/* DEMO INTRODUCTION & MAIN IMAGE */
+h1{
+    font-family: cursive;
+    font-size: 5rem;
+}
+
+.img-lastheading{
+    width: 30vw;
+    border-radius: 2rem;
+}
+
+div.last-img, div.last-heading{
+    background-color: #525545;
+    padding-bottom: 4rem;
+    text-align: center;
+}
+
+h1,p{
+    padding: 2rem;
+}
+
+/* P2: MAINLY INTRODUCE */
+img.main-img{
+    width: 15vw;
+    border-radius: 2rem;
+}
+
+p.main-content{
+    font-size: 2rem;
+    box-sizing: border-box;
+    padding-left: 30%;
+    padding-right: 20%;
+}
+
+.main-content, div.main-img, div.main-content, strong{
+    color: #525545;
+}
+div.main-img, h2.main-content{
+    padding-top: 4rem;
+    text-align: center;
+    font-size: 4rem;
+}
+
+/* <!-- P3: WHAT I CAN DO --> */
+div.whole{
+    height:25vh;
+}
+div.img-skill{
+    margin-top: 3rem;
+    height: fit-content;
+    width: 50%;
+    text-align: center;
+}
+p.text{
+    padding-left: 0;
+    width: fit-content;
+}
+
+.text h2, .text p{
+    color: #525545;
+    font-size: 2rem;
+    width: 50vw;
+    display: inline-block;
+}
+
+div.text{
+    width: 50%;
+    display: block;
+    position: relative;
+    left: 40rem;
+    bottom: 9rem;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 26px;
+    background: #525545;
+    padding: 10px 50px 10px 50px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  .btn:hover {
+    background: #525545;
+    background-image: -webkit-linear-gradient(top, #525545, #91a633);
+    background-image: -moz-linear-gradient(top, #525545, #91a633);
+    background-image: -ms-linear-gradient(top, #525545, #91a633);
+    background-image: -o-linear-gradient(top, #525545, #91a633);
+    background-image: linear-gradient(to bottom, #525545, #91a633);
+    text-decoration: none;
+  }
+  div.button{
+    text-align: center;
+    margin-bottom: 3rem;
+  }
+
+ul.finnal li, a{
+    display: inline;
+    text-decoration: none;
+    margin-right: 10rem;
+    background-color: #525545;
+}
+
+p.finnal{
+    text-align: center;
+}
+
+.total{
+    background: #525545;
+    padding-top: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
